@@ -25,7 +25,7 @@ This chatbot allows users to ask questions about loan applicant data such as loa
 ## 📂 Project Structure
 
 ```
-Week 8/
+CSI-Assignment---Week-8/
 │
 ├── app.py # Main chatbot script
 ├── retriever.py # Retrieves top matching documents
@@ -37,12 +37,13 @@ Week 8/
 │ └── training.csv # Raw loan data file
 │
 ├── docs/
-│ └── embedded_docs.pkl # Serialized documents and embeddings
+│ └── .gitkeep # Keeps the folder in version control (required for GitHub)
 │
 ├── requirements.txt # Required Python packages
 └── README.md # This file
 ```
-
+ 
+ℹ️ Note: The `docs/` folder is used to store preprocessed and embedded documents (`embedded_docs.pkl`). A `.gitkeep` file is included to retain this folder in the repo, since GitHub doesn't track empty folders.
 
 ---
 
