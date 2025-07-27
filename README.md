@@ -48,11 +48,8 @@ Week 8/
 
 ## 🛠️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/loan-chatbot.git
-cd loan-chatbot
-```
+### 1️⃣ Download or Copy the Project
+  First, download the project files as a ZIP from GitHub and extract them, or copy them manually to a folder on your system.
 ### 2️⃣ Create a virtual environment (optional but recommended)
 ```
 python -m venv venv
